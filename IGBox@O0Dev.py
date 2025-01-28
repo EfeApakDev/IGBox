@@ -69,25 +69,7 @@ class IGBoxO0Dev():
             print(f'{self.b1}{self.b3}{self.b2}{self.b0} Coded By Osama A.M.Y || Tele {self.t}')
             print('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
             print(f"""
-{self.b1}1{self.b2}{self.b0} Start Report [Profile]
-{self.b1}2{self.b2}{self.b0} Auto Follow User From list
-{self.b1}3{self.b2}{self.b0} Auto Comment
-{self.b1}4{self.b2}{self.b0} Auto Watch Stories
-{self.b1}5{self.b2}{self.b0} Auto Instagram Post
-{self.b1}6{self.b2}{self.b0} Get Users From Words
-{self.b1}7{self.b2}{self.b0} Get Users From User
-{self.b1}8{self.b2}{self.b0} Delete Following
-{self.b1}9{self.b2}{self.b0} Delete Posts
-{self.b1}10{self.b2}{self.b0} Delete chat
-{self.b1}11{self.b2}{self.b0} Cheack Email Linked
-{self.b1}12{self.b2}{self.b0} Get Public email
-{self.b1}13{self.b2}{self.b0} Switch Accounts type
-{self.b1}14{self.b2}{self.b0} Change Password From list
-{self.b1}15{self.b2}{self.b0} Sort Combo
-{self.b1}16{self.b2}{self.b0} Increase real followers
-{self.b1}17{self.b2}{self.b0} Post a New Note 
-{self.b1}99{self.b2}{self.b0} exit
-        """)
+{self.b1} 1 {self.b2} {self.b0} başlangıç ​​raporu [profil] {self.b1} 2 {self.b2} {self.b0} otomatik olarak kullanıcıyı {self.b1} 3 {self {self {self ile takip edin .b2} {self.b0} otomatik yorum {self.b1} 4 {self.b2} {self.b0} otomatik saat hikayeleri {self.b1} 5 {self.b2} {self.b0} otomatik instagram gönderisi {self. .b1} 6 {self.b2} {self.b0} kullanıcıları {self.b1} 7 {self.b2} {self.b0} kullanıcılarından kullanıcıları {self.b1} 8 {self.b2} { Self.b0} Aşağıdaki {self.b1} 9 {self.b2} {self.b0} {self.b1} 10 {self.b2} {self.b0} Sil sohbet {self.b1} 11 {self.b0 {self.b0 { .b2} {self.b0} cheack e -posta bağlantılı {self.b1} 12 {self.b2} {self.b0} genel e -posta {self.b1} 13 {self.b2} {self.b0} anahtar hesapları tür { self.b1} 14 {self.b2} {self.b0} Parolayı listeden {self.b1} 15 {self.b2} {self.b0} sıradan combo {self.b1} 16 {self.b2} {self. .b0} gerçek takipçileri artırmak {self.b1} 17 {self.b2} {self.b0} yeni bir not gönderin {self.b1} 99 {self.b2} {self.b0} çıkış "" ")
             tool = input(f'{self.b1}{self.b5}{self.b2}{self.b0} Enter Num of Tool > ')
             if tool == '1':
                 self.vip_Report()
